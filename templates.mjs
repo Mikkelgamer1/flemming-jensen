@@ -179,7 +179,7 @@ function afled(data, idag) {
 
 // ---------- fælles dele ----------
 
-const maerke = (cls = '') => `<span class="maerke ${cls}"><i aria-hidden="true"></i><span>Flemming<b>Jensen</b></span></span>`;
+const maerke = (cls = '') => `<span class="maerke ${cls}"><i aria-hidden="true">FJ</i><span>Flemming<b>Jensen</b></span></span>`;
 
 const top = (sti) => `
 <header class="top">
