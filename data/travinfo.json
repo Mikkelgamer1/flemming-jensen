@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-10-18T08:52:30.042Z",
+ "opdateret": "2026-10-19T09:56:42.134Z",
  "traener": {
   "foedt": 1961,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -360,6 +360,19 @@
    "placeringer": "1-1-0",
    "praemier": 18100,
    "rekord": "*17,6m 19,3am"
+  },
+  {
+   "id": 655730,
+   "navn": "Mr Photo",
+   "alder": 3,
+   "koen": "Hingst",
+   "foedt": "2023-03-25",
+   "far": "Photo Lavec (NO)",
+   "mor": "Operah Bob (SE)",
+   "starter": 1,
+   "placeringer": "1-0-0",
+   "praemier": 10000,
+   "rekord": "*17,4am"
   },
   {
    "id": 658771,
