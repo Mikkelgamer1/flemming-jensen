@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-10-21T09:23:34.938Z",
+ "opdateret": "2026-10-22T09:26:21.088Z",
  "traener": {
   "foedt": 1961,
   "hjemmebane": "Spar Nord Arena Aalborg",
@@ -9,7 +9,7 @@
  "traenerStatistik": [
   {
    "aar": 2026,
-   "starter": 278,
+   "starter": 280,
    "sejre": 51,
    "toer": 48,
    "treer": 31,
@@ -56,7 +56,7 @@
  "kuskStatistik": [
   {
    "aar": 2026,
-   "starter": 203,
+   "starter": 204,
    "sejre": 37,
    "toer": 35,
    "treer": 22,
@@ -395,7 +395,7 @@
    "foedt": "2024-04-29",
    "far": "Empire",
    "mor": "Sngularity Hanover (US)",
-   "starter": 2,
+   "starter": 3,
    "placeringer": "1-0-0",
    "praemier": 10000,
    "rekord": "*21,7am"
@@ -408,7 +408,7 @@
    "foedt": "2024-06-21",
    "far": "Maharajah (SE)",
    "mor": "I Want It All (SE)",
-   "starter": 3,
+   "starter": 4,
    "placeringer": "2-1-0",
    "praemier": 100000,
    "rekord": "15,7am"
@@ -454,6 +454,30 @@
   }
  ],
  "resultater": [
+  {
+   "id": "837924-658934",
+   "dato": "2026-10-21",
+   "bane": "Ch",
+   "loeb": 3,
+   "hestId": 658934,
+   "hest": "Nightingale",
+   "placering": "0",
+   "tid": "opgag",
+   "distance": 2000,
+   "praemie": 0
+  },
+  {
+   "id": "837924-658664",
+   "dato": "2026-10-21",
+   "bane": "Ch",
+   "loeb": 3,
+   "hestId": 658664,
+   "hest": "Ninjago",
+   "placering": "0",
+   "tid": "opga",
+   "distance": 2000,
+   "praemie": 0
+  },
   {
    "id": "837848-649221",
    "dato": "2026-10-16",
@@ -3672,22 +3696,6 @@
   }
  ],
  "kommende": [
-  {
-   "dato": "2026-10-21",
-   "bane": "Ch",
-   "loeb": 3,
-   "hestId": 658934,
-   "hest": "Nightingale",
-   "kusk": "Jeppe Juel"
-  },
-  {
-   "dato": "2026-10-21",
-   "bane": "Ch",
-   "loeb": 3,
-   "hestId": 658664,
-   "hest": "Ninjago",
-   "kusk": "Flemming Jensen"
-  },
   {
    "dato": "2026-10-23",
    "bane": "Od",
